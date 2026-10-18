@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/app.py
+!/README.md
+!/requirements.txt
+!/screenshots/
+!/reports/
+*.fits
+*.fit
